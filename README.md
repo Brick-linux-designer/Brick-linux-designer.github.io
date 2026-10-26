@@ -1,3 +1,6 @@
-# Content becoming soon
+# The official Brick-linux-designer's website
+Wiew this website at https://brick-linux-designer.github.io
 
-Well this is the content !
+# Licence
+- This repo is under MIT licence
+- Copyright (C) 2026 Brick-linux-designer
